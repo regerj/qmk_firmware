@@ -42,6 +42,8 @@
 #    define CAPS_LOCK_INDEX 45
 #    define LOW_BAT_IND_INDEX 75
 
+#define DYNAMIC_KEYMAP_LAYER_COUNT 6
+
 /* RGB Matrix Animation modes. Explicitly enabled
  * For full list of effects, see:
  * https://docs.qmk.fm/#/feature_rgb_matrix?id=rgb-matrix-effects
